@@ -27,6 +27,10 @@ img {
   border-radius: 6%;
 }
 
+.topping-price {
+  font-size: 14px;
+}
+
 footer {
   text-align: center;
 }
