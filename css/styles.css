@@ -11,17 +11,22 @@
 
 body {
   font-family: 'Dosis', sans-serif;
+  /* background-image: url(../img/pizzacat.png);
+  background-repeat: no-repeat;
+  background-position: right;  */
 }
 
-.left {
-  float: left;
+.container {
+  line-height: 16pt;
 }
 
-.right {
+img {
   float: right;
+  margin-top: 100px;
+  margin-right: 200px;
+  border-radius: 6%;
 }
 
-}
 footer {
   text-align: center;
 }
